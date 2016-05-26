@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[David Swan]]></title>
         <description><![CDATA[David Swan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-swan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 16:27:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 17:46:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-swan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba4f5115-b935-456c-94ce-a65b18cecd0f.gif">]]></description>
+            <link>https://thegrid.ai/david-swan/7291a636-a125-4dec-b97b-03647d88b372/index.html</link>
+            <guid isPermaLink="false">7291a636-a125-4dec-b97b-03647d88b372</guid>
+            <pubDate>Thu, 26 May 2016 17:46:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e9d4890-4ded-473d-b97b-7b944b03152f.gif">]]></description>
-            <link>undefined84ee315c-a526-470b-b13e-9b623c774660/index.html</link>
+            <link>https://thegrid.ai/david-swan/84ee315c-a526-470b-b13e-9b623c774660/index.html</link>
             <guid isPermaLink="false">84ee315c-a526-470b-b13e-9b623c774660</guid>
             <pubDate>Tue, 26 Apr 2016 16:27:33 GMT</pubDate>
         </item>

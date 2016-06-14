@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[David Swan]]></title>
         <description><![CDATA[David Swan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-swan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 22:07:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 22:07:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-swan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a36de8f-fea2-4574-ba97-605974accd88.gif">]]></description>
+            <link>https://thegrid.ai/david-swan/food-time-for-snow-leopard/index.html</link>
+            <guid isPermaLink="false">e1697835-5dc2-4edf-b6f5-0d6655c7ccc3</guid>
+            <pubDate>Tue, 14 Jun 2016 22:06:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba4f5115-b935-456c-94ce-a65b18cecd0f.gif">]]></description>
-            <link>undefined7291a636-a125-4dec-b97b-03647d88b372/index.html</link>
+            <link>https://thegrid.ai/david-swan/7291a636-a125-4dec-b97b-03647d88b372/index.html</link>
             <guid isPermaLink="false">7291a636-a125-4dec-b97b-03647d88b372</guid>
             <pubDate>Tue, 14 Jun 2016 22:06:59 GMT</pubDate>
         </item>
